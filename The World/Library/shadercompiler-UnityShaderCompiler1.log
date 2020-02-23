@@ -1,0 +1,12 @@
+Base path: /Applications/Unity/Hub/Editor/2019.1.12f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=839 outsize=1145 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3416 outsize=2985 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2289 outsize=2625 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1453 outsize=1649 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4925 outsize=6385 ok=1
