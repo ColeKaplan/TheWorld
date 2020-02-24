@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{20C0DA79-E7F5-76CC-19BA-9F625FC24F15}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CopyPosition.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControlledVelocity.cs" Line="5" Column="14" />
+      <File FileName="Assets/Scripts/CopyPosition.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The World" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CopyPosition.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c852fc91-2b21-4a08-bce3-a5b9801ba040" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
